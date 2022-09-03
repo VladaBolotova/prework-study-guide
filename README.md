@@ -2,10 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- I want to help the studient to have all information from the course in one website for comfortable usage.
-- This project is structured and undeerstandable for everyone.
+- I want to help studients to have all information from the course in one website for comfortable usage.
+- This project is structured and understandable for everyone.
 - It helps student to have all notes and important information in one place.
 - I've learned SSN, HTML, JavaScript, VS Code,
 
